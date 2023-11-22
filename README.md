@@ -1,19 +1,21 @@
-<h1 align="center">Hola 👋, Soy Jhon Eberth Betancourth Gomez</h1>
-<h3 align="center">Soy un desarrollador FullStack Apasionado</h3>
+# 💫 About Me:
+¡Hola! Soy Jhon Eberth Betancourth Gomez, un apasionado desarrollador de software recién graduado del bootcamp "Soy Henry". Mi fascinación por la tecnología y mi deseo de crear soluciones innovadoras me llevaron a sumergirme en el emocionante mundo del desarrollo de software.<br><br>Durante mi tiempo en el bootcamp, adquirí habilidades sólidas en ReactJS | JavaScript | HTML | CSS | Bootstrap | Express | NodeJS | Sequalize | Postgresql | y estoy emocionado de aplicar estos conocimientos en proyectos del mundo real. Mi enfoque va más allá de simplemente escribir código; me esfuerzo por comprender a fondo los problemas y diseñar soluciones efectivas.<br><br>Actualmente, estoy ampliando mis conocimientos como estudiante de análisis de desarrollo de software, donde busco consolidar y mejorar mis habilidades técnicas. Creo firmemente en la importancia de la educación continua y en estar al tanto de las últimas tendencias en la industria.<br><br>Mi experiencia no solo se limita a la programación; también disfruto colaborar en equipos, aprender de mis compañeros y enfrentar nuevos desafíos. La resolución de problemas es mi fuerte, y siempre estoy buscando maneras de mejorar y crecer profesionalmente.<br><br>Fuera del mundo del desarrollo, me apasiona Leer en mis tiempos libres y los deportes. Creo en encontrar un equilibrio entre el trabajo y la vida, y busco inspiración en diversas fuentes para alimentar mi creatividad.<br><br>Estoy emocionado por lo que el futuro tiene reservado en mi carrera como desarrollador. Si estás buscando a alguien con entusiasmo, habilidades técnicas sólidas y una mentalidad de aprendizaje continuo, ¡me encantaría conectarme contigo!<br><br>
 
-- 🔭 Actualmente estoy trabajando en [PintCraft3D](https://printcraft3d.vercel.app)
 
-- 👯 Estoy colaborando en [PintCraft3D](PintCraft3D)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhonbg09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonbg93) 
 
-- 💬 Preguntame sobre **ReactJs, html, css, javascript, express, SQL, NodeJS**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhonbg93&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhonbg93&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbg93&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 Como contactarme **jhon.betancourthg09@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jhonbg93&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhonbg93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonbg93" height="30" width="40" /></a>
-<a href="https://discord.gg/jhonbg09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jhonbg09" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=jhonbg93&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Lenguajes y Framework:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
